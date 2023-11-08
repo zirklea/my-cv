@@ -5,10 +5,6 @@ title: Teaching Experience
 
 # Teaching Experience
 
-## Course 1
-- Description
-- Semester Taught
-
-## Course 2
-- Description
-- Semester Taught
+## Training
+- Have trained interns and colleagues at Walt Disney World Resort and West Osceola Library
+- Have created multiple training guides and operating guides
