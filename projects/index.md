@@ -5,10 +5,6 @@ title: Projects
 
 # Projects
 
-## Project 1
-- Project Description
-- Technologies Used
-
-## Project 2
-- Project Description
-- Technologies Used
+## Master's Thesis
+- <i>Harry Potter</i> and the American Response
+- [Click to read](https://scholarworks.gvsu.edu/theses/789/)
