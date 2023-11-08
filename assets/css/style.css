@@ -1,7 +1,5 @@
 ---
 ---
-
-@import "{{ site.theme }}";
 h1,
 h2,
 h3,
@@ -13,3 +11,5 @@ h6 {
   font-weight: normal;
   color: rgb(0, 79, 128);
 }
+
+@import "{{ site.theme }}";
