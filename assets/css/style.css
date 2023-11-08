@@ -2,4 +2,13 @@
 ---
 
 @import "{{ site.theme }}";
-$section-headings-color: #4169e1
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+ 
+font-weight: strong;
+  color: rgb(49, 102, 171)
+}
