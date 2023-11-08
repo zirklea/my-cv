@@ -2,12 +2,7 @@
 layout: default
 title: CV
 ---
-
-**Ashley Zirkle**
-
-810-877-2690 ** **
-as513957@ucf.edu
-
+ 
 **EDUCATION**
 
 M.A., English Literature, Grand Valley State University, 2015
@@ -44,9 +39,9 @@ Zirkle, Ashley. "How to Go to a Funeral." _apt_, 2.2 (2012): 39-52.
 
 **AWARDS**
 
-2021. Outstanding Event, Florida Main Street Secretary of State Awards, Picture Perfect Holidays
+1.    Outstanding Event, Florida Main Street Secretary of State Awards, Picture Perfect Holidays
 
-2017. Finalist, Brass Ring Award, Most Creative Christmas Show, Jingle Bell, Jingle Bam!
+2.    Finalist, Brass Ring Award, Most Creative Christmas Show, Jingle Bell, Jingle Bam!
 
 **ORGANIZATIONS**
 
