@@ -5,9 +5,9 @@ title: Ashley Zirkle - Academic Portfolio
 
 ![Featured Image](/assets/featured-image.jpg.jpg)
 
-# <b><color:steelblue>Ashley Zirkle</b>
+# <b>Ashley Zirkle</b>
 ## <b><p style="color:steelblue">Graduate Student, University of Central Florida</b></p>
-- [color:steelblueAshley Zirkle](#colorsteelblueashley-zirkle)
+- [Ashley Zirkle](#ashley-zirkle)
   - [Graduate Student, University of Central Florida](#graduate-student-university-of-central-florida)
     - [About Me](#about-me)
     - [Research Interests](#research-interests)
