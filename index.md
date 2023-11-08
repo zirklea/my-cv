@@ -5,8 +5,8 @@ title: Ashley Zirkle - Academic Portfolio
 
 ![Featured Image](/assets/featured-image.jpg.jpg)
 
-# <b>Ashley Zirkle</b>
-## <b>Graduate Student, University of Central Florida</b>
+# <b><p style="color:steelblue">Ashley Zirkle</b></p>
+## <b><p style="color:steelblue">Graduate Student, University of Central Florida</b></p>
 - [Ashley Zirkle](#ashley-zirkle)
   - [Graduate Student, University of Central Florida](#graduate-student-university-of-central-florida)
     - [About Me](#about-me)
@@ -15,19 +15,19 @@ title: Ashley Zirkle - Academic Portfolio
     - [Follow Me](#follow-me)
 
 
-### <b>About Me</b>
+### <b><p style="color:steelblue">About Me</b></p>
 Hello! My name is Ashley. I have a background in creative writing and literature. I work with creative writing, communications and social media.
 
-### <b>Research Interests</b>
+### <b><p style="color:steelblue">Research Interests</b></p>
 - Social Media
 - Themed Entertainment
 - Gender Studies
 
-### <b>Contact</b>
+### <b><p style="color:steelblue">Contact</b></p>
 
 - Email: as513957@ucf.edu
 
-### <b>Follow Me</b>
+### <b><p style="color:steelblue">Follow Me</b></p>
 
 - [Instagram](https://instagram.com/_ashleyz_)
 - [LinkedIn](https://linkedin.com/in/ashleyzirkle)
