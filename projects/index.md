@@ -3,8 +3,8 @@ layout: default
 title: Projects
 ---
 
-# Projects
+# <b>Projects</b>
 
-## Master's Thesis
+## <b>Master's Thesis</b>
 - <i>Harry Potter</i> and the American Response
 - [Click to read](https://scholarworks.gvsu.edu/theses/789/)
