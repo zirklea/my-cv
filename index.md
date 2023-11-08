@@ -12,7 +12,6 @@ title: Ashley Zirkle - Academic Portfolio
     - [About Me](#about-me)
     - [Research Interests](#research-interests)
     - [Contact](#contact)
-    - [CV](#cv)
     - [Follow Me](#follow-me)
 
 
@@ -27,9 +26,6 @@ Hello! My name is Ashley. I have a background in creative writing and literature
 ### Contact
 
 - Email: as513957@ucf.edu
-
-### CV
-[Click Here](C:\Users\ashle\OneDrive\Documents\GitHub\my-cv\CV)
 
 ### Follow Me
 
