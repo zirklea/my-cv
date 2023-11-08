@@ -5,8 +5,8 @@ title: Ashley Zirkle - Academic Portfolio
 
 ![Featured Image](/assets/featured-image.jpg.jpg)
 
-# Ashley Zirkle
-## Graduate Student, University of Central Florida
+# <b><font color=#4169e1>Ashley Zirkle</font></b>
+## <b>Graduate Student, University of Central Florida</b>
 - [Ashley Zirkle](#ashley-zirkle)
   - [Graduate Student, University of Central Florida](#graduate-student-university-of-central-florida)
     - [About Me](#about-me)
