@@ -11,5 +11,4 @@ h6 {
   font-weight: normal;
   color: rgb(0, 79, 128);
 }
-
 @import "{{ site.theme }}";
