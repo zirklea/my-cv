@@ -3,8 +3,8 @@ layout: default
 title: Teaching Experience
 ---
 
-# <b><p style="color:steelblue">Teaching Experience</b></p>
+# <b>Teaching Experience</b>
 
-## <b><p style="color:steelblue">Training</b></p>
+## <b>Training</b>
 - Have trained interns and colleagues at Walt Disney World Resort and West Osceola Library
 - Have created multiple training guides and operating guides
