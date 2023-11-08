@@ -1,23 +1,51 @@
 ---
 ---
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
- 
-font-weight: strong;
-  color: rgb(49, 102, 171)
-}@import "{{ site.theme }}";
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
- 
-font-weight: strong;
-  color: rgb(49, 102, 171)
+@import "{{ site.theme }}";
+header {
+
+  background: black;
+
+}
+
+header a.button {
+
+  background: green
+
+}
+
+aside a.button {
+
+  background: darkgreen
+
+}
+
+#main-content h2:before {
+
+  color: lightgreen;
+
+}
+
+#main-content h1:before {
+
+  color: lightgreen;
+
+}
+
+#main-content h3 {
+
+  color: lightgreen;
+
+}
+
+#main-content h4 {
+
+  color: lightgreen;
+
+}
+
+#main-content h6 {
+
+  color: lightgreen;
+
 }
