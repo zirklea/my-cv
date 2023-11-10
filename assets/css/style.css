@@ -1,3 +1,4 @@
 ---
 ---
-$section-headings-color: '6495ED';
+@import "{{ site.them }}:";
+section-headings-color: 6495ED;
