@@ -14,7 +14,12 @@
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
+    <aside id="sidebar">
 
+      <a href="https://zirklea.github.io/my-cv/" class="button">Home</a>
+      <a href="https://zirklea.github.io/my-cv/teaching/" class="button">Teaching</a>
+      <a href="https://zirklea.github.io/my-cv/projects/" class="button">Projects</a>
+      <a href="https://zirklea.github.io/my-cv/cv/" class="button">CV</a>
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
@@ -27,12 +32,7 @@
       {% endif %}
     </header>
    
-    <aside id="sidebar">
-
-      <a href="https://zirklea.github.io/my-cv/" class="button">Home</a>
-      <a href="https://zirklea.github.io/my-cv/teaching/" class="button">Teaching</a>
-      <a href="https://zirklea.github.io/my-cv/projects/" class="button">Projects</a>
-      <a href="https://zirklea.github.io/my-cv/cv/" class="button">CV</a>
+  
 
     <main id="content" class="main-content" role="main">
       {{ content }}
