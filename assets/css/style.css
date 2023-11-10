@@ -1,6 +1,7 @@
 ---
 ---
-@import "{{site.theme}}";
-h1 {
-    color: #076FE0;
-}
+
+// Text
+$section-headings-color: #076FE0; 
+
+@import "{{ site.theme }}";
