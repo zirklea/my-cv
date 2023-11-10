@@ -1,4 +1,7 @@
 ---
 ---
-@import "{{ site.them }}:";
-section-headings-color: 6495ED;
+@import "{{ site.theme }}:";
+h1 {
+    text-align: center;
+    color: #076FE0;
+}
