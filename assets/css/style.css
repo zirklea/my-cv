@@ -1,7 +1,4 @@
 ---
 ---
 
-// Text
-$section-headings-color: #076FE0; 
-
 @import "{{ site.theme }}";
