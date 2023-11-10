@@ -1,5 +1,4 @@
 ---
 ---
 $section-headings-color: #6495ED;
-
-@import "{{ site.theme }}";
+@import "jekyll-theme-cayman";
