@@ -1,4 +1,5 @@
 ---
 ---
-$section-headings-color: #6495ED;
+
 @import "jekyll-theme-cayman";
+$section-headings-color: #6495ED;
