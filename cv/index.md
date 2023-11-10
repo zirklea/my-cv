@@ -9,43 +9,10 @@ M.A., English Literature, Grand Valley State University, 2015
 
 B.A., Creative Writing, English, and Spanish, Grand Valley State University, 2011
 
-**WORK EXPERIENCE**
-
-Communications Specialist, Walt Disney World Resort, 2019-Present
-
-Communications Associate, University of Central Florida, 2018-2019
-
-Show Writer Intern, Walt Disney World Resort, 2016
-
-Library Associate, West Osceola Library, 2015-2019
-
-Learning Coordinator, Walt Disney World Resort, 2015
-
-Housing Operations Coordinator, Walt Disney World Resort, 2014
-
-Communications Intern, Walt Disney World Resort, 2013
-
-**FREELANCE EXPERIENCE**
-
-Copywriter, Imagine Exhibitions, 2021-2022
-
-Copywriter, Pecchia Communications, 2021-2022
-
-Lead Show Writer, Slice Creative Network, 2020
 
 **PUBLICATIONS**
 
 Zirkle, Ashley. "How to Go to a Funeral." _apt_, 2.2 (2012): 39-52.
-
-**AWARDS**
-
-1.    Outstanding Event, Florida Main Street Secretary of State Awards, Picture Perfect Holidays
-
-2.    Finalist, Brass Ring Award, Most Creative Christmas Show, Jingle Bell, Jingle Bam!
-
-**ORGANIZATIONS**
-
-Disney Creatives. Crew Member. 2021-Present.
 
 **SHOW WRITER EXPERIENCE**
 
@@ -104,3 +71,37 @@ Princess Promenade, Disney's Grand Floridian Resort and Spa. Edited script. 2016
 _Rivers of Light_, Disney's Animal Kingdom Theme Park. Announcements, edited script. 2016.
 
 _Star Wars: A Galaxy Far, Far Away_, Disney's Hollywood Studios. Announcements and trivia, edited script. 2016.
+
+**AWARDS**
+
+1.    Outstanding Event, Florida Main Street Secretary of State Awards, Picture Perfect Holidays
+
+2.    Finalist, Brass Ring Award, Most Creative Christmas Show, Jingle Bell, Jingle Bam!
+
+**ORGANIZATIONS**
+
+Disney Creatives. Crew Member. 2021-Present.
+
+**WORK EXPERIENCE**
+
+Communications Specialist, Walt Disney World Resort, 2019-Present
+
+Communications Associate, University of Central Florida, 2018-2019
+
+Show Writer Intern, Walt Disney World Resort, 2016
+
+Library Associate, West Osceola Library, 2015-2019
+
+Learning Coordinator, Walt Disney World Resort, 2015
+
+Housing Operations Coordinator, Walt Disney World Resort, 2014
+
+Communications Intern, Walt Disney World Resort, 
+
+**FREELANCE EXPERIENCE**
+
+Copywriter, Imagine Exhibitions, 2021-2022
+
+Copywriter, Pecchia Communications, 2021-2022
+
+Lead Show Writer, Slice Creative Network, 2020
