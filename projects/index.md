@@ -9,5 +9,5 @@ title: Projects
 - [P5.js](carolofthebells.html)
 - [Twine](ninelives.html)
 - [Bitsy](easteregghunt.html)
-- 
--
+- [Comic](Comic.jpeg)
+- [Selife](Selfie.jpg)
