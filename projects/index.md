@@ -8,6 +8,6 @@ title: Projects
 ## <b>Reflection</b>
 - [P5.js](carolofthebells.html)
 - [Twine](ninelives.html)
--
--
+- [Bitsy](easteregghunt.html)
+- 
 -
